@@ -1,4 +1,4 @@
-# Proyecto de Repaso de Relaciones en JPA y Hibernate
+# Relaciones en JPA y Hibernate
 
 Este proyecto tiene como objetivo repasar y demostrar el uso de relaciones entre entidades en JPA y Hibernate. A continuación, se describen las principales relaciones, anotaciones y tipos de carga utilizados en el proyecto.
 
@@ -41,7 +41,5 @@ Este proyecto tiene como objetivo repasar y demostrar el uso de relaciones entre
     - Todos los datos relacionados se cargan al mismo tiempo que la entidad principal.
     - Ejemplo: Se puede configurar una relación con `fetch = FetchType.EAGER`.
 
-## Conclusión
 
-Este proyecto es un ejercicio práctico para conocer las diferentes relaciones en JPA e Hibernate. Este proyecto está centrado en entender mejor cómo funcionan las relaciones y las anotaciones en un entorno de persistencia.
 
